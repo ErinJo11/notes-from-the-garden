@@ -1,0 +1,27 @@
+html{
+    background-color: #79a579cc;
+}
+
+.notebook{
+    display: block;
+    margin:auto;
+    margin-top: 0%;
+}
+
+.title{
+    text-align: center;
+    font-family: "norican" ;
+    font-size: 100px;
+    margin-bottom: 0px;
+}
+
+.title:hover{
+    text-decoration: underline;
+}
+
+.violet{
+    position: relative;
+    top: -690px;
+    left: -50px;
+    width: 700px;
+}
