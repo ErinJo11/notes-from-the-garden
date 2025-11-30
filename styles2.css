@@ -55,3 +55,45 @@ a:visited {
 .nav a:hover{
     text-decoration: underline;
 }
+
+.card {
+    position: relative;
+    width: 70%;
+    margin: 0 auto;
+}
+
+.flower-card{
+    width: 100%;
+    display: block;
+}
+
+.card-text {
+    position: absolute;
+    top: 50%;     
+    left: 62%;     
+    transform: translate(-50%, -50%);
+    width: 40%;    
+    text-align: left;
+}
+
+.flower-title{
+ font-size: 60px;
+ font-family: sans-serif
+}
+
+.flower-name{
+font-size: 30px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.flower-notes{
+  font-family: "Shadows Into Light", cursive;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 20px;
+}
+
+
+
+
+
